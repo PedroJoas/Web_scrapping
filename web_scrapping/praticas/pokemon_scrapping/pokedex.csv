@@ -1,0 +1,152 @@
+,No,pokemons,tipo
+0,#001,Bulbasaur,Grass & Poison
+1,#002,Ivysaur,Grass & Poison
+2,#003,Venusaur,Grass & Poison
+3,#004,Charmander,Fire
+4,#005,Charmeleon,Fire
+5,#006,Charizard,Fire & Flying
+6,#007,Squirtle,Water
+7,#008,Wartortle,Water
+8,#009,Blastoise,Water
+9,#010,Caterpie,Bug
+10,#011,Metapod,Bug
+11,#012,Butterfree,Bug & Flying
+12,#013,Weedle,Bug & Poison
+13,#014,Kakuna,Bug & Poison
+14,#015,Beedrill,Bug & Poison
+15,#016,Pidgey,Normal & Flying
+16,#017,Pidgeotto,Normal & Flying
+17,#018,Pidgeot,Normal & Flying
+18,#019,Rattata,Normal
+19,#020,Raticate,Normal
+20,#021,Spearow,Normal & Flying
+21,#022,Fearow,Normal & Flying
+22,#023,Ekans,Poison
+23,#024,Arbok,Poison
+24,#025,Pikachu,Electric
+25,#026,Raichu,Electric
+26,#027,Sandshrew,Ground
+27,#028,Sandslash,Ground
+28,#029,Nidoran♀,Poison
+29,#030,Nidorina,Poison
+30,#031,Nidoqueen,Poison & Ground
+31,#032,Nidoran♂,Poison
+32,#033,Nidorino,Poison
+33,#034,Nidoking,Poison & Ground
+34,#035,Clefairy,Normal
+35,#036,Clefable,Normal
+36,#037,Vulpix,Fire
+37,#038,Ninetales,Fire
+38,#039,Jigglypuff,Normal
+39,#040,Wigglytuff,Normal
+40,#041,Zubat,Poison & Flying
+41,#042,Golbat,Poison & Flying
+42,#043,Oddish,Grass & Poison
+43,#044,Gloom,Grass & Poison
+44,#045,Vileplume,Grass & Poison
+45,#046,Paras,Bug & Grass
+46,#047,Parasect,Bug & Grass
+47,#048,Venonat,Bug & Poison
+48,#049,Venomoth,Bug & Poison
+49,#050,Diglett,Ground
+50,#051,Dugtrio,Ground
+51,#052,Meowth,Normal
+52,#053,Persian,Normal
+53,#054,Psyduck,Water
+54,#055,Golduck,Water
+55,#056,Mankey,Fighting
+56,#057,Primeape,Fighting
+57,#058,Growlithe,Fire
+58,#059,Arcanine,Fire
+59,#060,Poliwag,Water
+60,#061,Poliwhirl,Water
+61,#062,Poliwrath,Water & Fighting
+62,#063,Abra,Psychic
+63,#064,Kadabra,Psychic
+64,#065,Alakazam,Psychic
+65,#066,Machop,Fighting
+66,#067,Machoke,Fighting
+67,#068,Machamp,Fighting
+68,#069,Bellsprout,Grass & Poison
+69,#070,Weepinbell,Grass & Poison
+70,#071,Victreebel,Grass & Poison
+71,#072,Tentacool,Water & Poison
+72,#073,Tentacruel,Water & Poison
+73,#074,Geodude,Rock & Ground
+74,#075,Graveler,Rock & Ground
+75,#076,Golem,Rock & Ground
+76,#077,Ponyta,Fire
+77,#078,Rapidash,Fire
+78,#079,Slowpoke,Water & Psychic
+79,#080,Slowbro,Water & Psychic
+80,#081,Magnemite,Electric & Steel
+81,#082,Magneton,Electric & Steel
+82,#083,Farfetch'd,Normal & Flying
+83,#084,Doduo,Normal & Flying
+84,#085,Dodrio,Normal & Flying
+85,#086,Seel,Water
+86,#087,Dewgong,Water & Ice
+87,#088,Grimer,Poison
+88,#089,Muk,Poison
+89,#090,Shellder,Water
+90,#091,Cloyster,Water & Ice
+91,#092,Gastly,Ghost & Poison
+92,#093,Haunter,Ghost & Poison
+93,#094,Gengar,Ghost & Poison
+94,#095,Onix,Rock & Ground
+95,#096,Drowzee,Psychic
+96,#097,Hypno,Psychic
+97,#098,Krabby,Water
+98,#099,Kingler,Water
+99,#100,Voltorb,Electric
+100,#101,Electrode,Electric
+101,#102,Exeggcute,Grass & Psychic
+102,#103,Exeggutor,Grass & Psychic
+103,#104,Cubone,Ground
+104,#105,Marowak,Ground
+105,#106,Hitmonlee,Fighting
+106,#107,Hitmonchan,Fighting
+107,#108,Lickitung,Normal
+108,#109,Koffing,Poison
+109,#110,Weezing,Poison
+110,#111,Rhyhorn,Ground & Rock
+111,#112,Rhydon,Ground & Rock
+112,#113,Chansey,Normal
+113,#114,Tangela,Grass
+114,#115,Kangaskhan,Normal
+115,#116,Horsea,Water
+116,#117,Seadra,Water
+117,#118,Goldeen,Water
+118,#119,Seaking,Water
+119,#120,Staryu,Water
+120,#121,Starmie,Water & Psychic
+121,#122,Mr.,Mr.
+122,#123,Scyther,Bug & Flying
+123,#124,Jynx,Ice & Psychic
+124,#125,Electabuzz,Electric
+125,#126,Magmar,Fire
+126,#127,Pinsir,Bug
+127,#128,Tauros,Normal
+128,#129,Magikarp,Water
+129,#130,Gyarados,Water & Flying
+130,#131,Lapras,Water & Ice
+131,#132,Ditto,Normal
+132,#133,Eevee,Normal
+133,#134,Vaporeon,Water
+134,#135,Jolteon,Electric
+135,#136,Flareon,Fire
+136,#137,Porygon,Normal
+137,#138,Omanyte,Rock & Water
+138,#139,Omastar,Rock & Water
+139,#140,Kabuto,Rock & Water
+140,#141,Kabutops,Rock & Water
+141,#142,Aerodactyl,Rock & Flying
+142,#143,Snorlax,Normal
+143,#144,Articuno,Ice & Flying
+144,#145,Zapdos,Electric & Flying
+145,#146,Moltres,Fire & Flying
+146,#147,Dratini,Dragon
+147,#148,Dragonair,Dragon
+148,#149,Dragonite,Dragon & Flying
+149,#150,Mewtwo,Psychic
+150,#151,Mew,Psychic
